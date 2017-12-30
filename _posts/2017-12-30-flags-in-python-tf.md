@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flags in Python and Tensorflow
+title: Flags in Python & Tensorflow
 tags: [Python, Machine Learning, Software Engineering]
 ---
 <p align="justify">
