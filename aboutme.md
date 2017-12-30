@@ -8,7 +8,7 @@ My name is Abhishek Saurabh. I'm a Machine Learning enthusiast completely in awe
 </p>
 
 <p align="justify">
-The purpose of creating this website is twofold. One, to share whatever I learn with everyone. <b>Knowledge sharing</b> is one thing which makes me proud to be a part of the software development community. Two, there are some wonderful blogs out there on data science (machine learning in particular) & software development. At times it becomes difficult for me to sift through the bookmarked blogs. So, I've decided to make a summary of what I read and share the link to the source page with those who visit this website.   
+The purpose of creating this website is two fold. One, to share whatever I learn with everyone. <b>Knowledge sharing</b> is one thing which makes me proud to be a part of the software development community. Two, there are some wonderful blogs out there on data science (machine learning in particular) & software development. At times it becomes difficult for me to sift through the bookmarked blogs. So, I've decided to make a summary of what I read and share the link to the source page with those who visit this website.   
 </p>
 
 ## Education
