@@ -111,7 +111,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "disqus_s6ny8LlPdx"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-111679181-1"
+google_analytics: "UA-111679181-1"
 
 # Google Tag Manager ID
 #gtm: ""
