@@ -12,10 +12,21 @@ The purpose of creating this website is twofold. One, to share whatever I learn 
 </p>
 
 ## Education
-| Year of Passing | Degree | 
-| :------ |:--- |
-| 2015 - 2017  | M.Sc. Artificial Intelligence  |
-| 2004 - 2008  | B.Tech. in Electronics and Instrumentation  |
+
+<table>
+  <tr>
+    <th>Year of Passing</th>
+    <th>Degree</th>
+  </tr>
+  <tr>
+    <td>2015-17</td>
+    <td>M.Sc. Artificial Intelligence</td>
+  </tr>
+  <tr>
+    <td>2004-08</td>
+    <td>B.Tech. in Electronics and Instrumentation</td>
+  </tr>
+</table>
 
 ## CV
 * I'll post it here asap. 
