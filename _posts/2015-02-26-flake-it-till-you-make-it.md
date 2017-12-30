@@ -1,3 +1,5 @@
+Remove it from my home page. 
+
 ---
 layout: post
 title: Flake it till you make it
