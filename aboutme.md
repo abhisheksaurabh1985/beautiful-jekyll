@@ -12,8 +12,10 @@ The purpose of creating this website is twofold. One, to share whatever I learn 
 </p>
 
 ## Education
-* 2015-2017 MSc Artificial Intelligence
-* 2004-2008 B.Tech. in Electronics and Instrumentation
+| Year of Passing  | Degree |
+| ------------- | ------------- |
+| 2015-2017  | MSc Artificial Intelligence  |
+| 2004-2008  | B.Tech. in Electronics and Instrumentation  |
 
 ## CV
 * I'll post it here asap. 
