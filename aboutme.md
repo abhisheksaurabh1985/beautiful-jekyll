@@ -12,8 +12,8 @@ The purpose of creating this website is twofold. One, to share whatever I learn 
 </p>
 
 ## Education
-| Year of Passing  | Degree |
-| ------------- | ------------- |
+| Year of Passing | Degree | 
+| :------ |:--- |
 | 2015 - 2017  | M.Sc. Artificial Intelligence  |
 | 2004 - 2008  | B.Tech. in Electronics and Instrumentation  |
 
